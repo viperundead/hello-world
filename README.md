@@ -6,3 +6,6 @@ Hubot here, I like Node.js and Coffeescript(that's what I'am made of!). I've had
 
 
 Oh my god.
+
+
+can it work?
